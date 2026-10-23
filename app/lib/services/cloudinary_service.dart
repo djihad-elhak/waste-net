@@ -11,11 +11,11 @@ import 'package:flutter/foundation.dart';
 class CloudinaryService {
   // ── Your Cloudinary credentials ───────────────────────────────────────────
   // Get these from: cloudinary.com → Dashboard
-  static const String _cloudName    = 'ddh6rmuoq';    // e.g. 'dxyz1234'
-  static const String _uploadPreset = 'trashgo_claims';     // the preset you just created
+  static const String _cloudName    = '';    // e.g. 'dxyz1234'
+  static const String _uploadPreset = '';     // the preset you just created
 
   static const String _baseUrl =
-      'https://api.cloudinary.com/v1_1/$_cloudName/image/upload';
+      '';
 
   // ─────────────────────────────────────────────────────────────────────────
   // Upload a claim photo
