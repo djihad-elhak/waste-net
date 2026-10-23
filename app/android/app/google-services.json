@@ -1,41 +1,41 @@
 {
   "project_info": {
-    "project_number": "158345019911",
-    "project_id": "trashgo-ced42",
-    "storage_bucket": "trashgo-ced42.firebasestorage.app"
+    "project_number": "",
+    "project_id": "",
+    "storage_bucket": ""
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:158345019911:android:dd561d55dd294ae8e3e0a2",
+        "mobilesdk_app_id": "",
         "android_client_info": {
-          "package_name": "hugotech.com.trash"
+          "package_name": ""
         }
       },
       "oauth_client": [
         {
-          "client_id": "158345019911-guqdv49r8hvku2cv8181usdg8ogrhbcq.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 1,
           "android_info": {
-            "package_name": "hugotech.com.trash",
-            "certificate_hash": "52ddf356655b45efb069a497c8845129897e4810"
+            "package_name": "",
+            "certificate_hash": ""
           }
         },
         {
-          "client_id": "158345019911-a57o2eqffmslq437qu99pogt6arburkh.apps.googleusercontent.com",
+          "client_id": "",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDLGCJqkx4dbujNrEtx9hOunEhPChB9its"
+          "current_key": ""
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "158345019911-a57o2eqffmslq437qu99pogt6arburkh.apps.googleusercontent.com",
+              "client_id": "",
               "client_type": 3
             }
           ]
