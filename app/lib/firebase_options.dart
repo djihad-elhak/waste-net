@@ -53,10 +53,10 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyDLGCJqkx4dbujNrEtx9hOunEhPChB9its',
-    appId: '1:158345019911:android:dd561d55dd294ae8e3e0a2',
-    messagingSenderId: '158345019911',
-    projectId: 'trashgo-ced42',
-    storageBucket: 'trashgo-ced42.firebasestorage.app',
+    apiKey: <your api key>,
+    appId: <your App id>,
+    messagingSenderId: <messaging sender ID>,
+    projectId: <project ID>,
+    storageBucket: <storage bucket>,
   );
 }
